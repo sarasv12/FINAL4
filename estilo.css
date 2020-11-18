@@ -1,0 +1,277 @@
+.titulo2
+{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+.a1
+{
+	position: absolute;
+	background-image: url(pm.png);
+	width: 325px;
+	height: 350px;
+	top: 30%;
+	right: 66%;
+}
+.a1:hover
+{
+	position: absolute;
+	background-image: url(mariana.png);
+	width: 410px;
+	height: 330px;
+	top: 31%;
+	right: 63%;
+}
+.a2
+{
+	position: absolute;
+		background-image: url(ps.png);
+	width: 429px;
+	height: 360px;
+	top: 29%;
+	right: 35%;
+}
+.a2:hover
+{
+	position: absolute;
+		background-image: url(simon.png);
+	width: 404px;
+	height: 330px;
+	top: 29%;
+	right: 36%;
+}
+.a3
+{
+	position: absolute;
+		background-image: url(psa.png);
+	width: 325px;
+	height: 325px;
+
+	top: 34%;
+	right: 11%;
+}
+.a3:hover
+{
+	position: absolute;
+		background-image: url(sara.png);
+	width: 370px;
+	height: 370px;
+	top: 29%;
+	right: 9%;
+}
+.b1
+{
+ position: absolute;
+ top: 87%;
+ right: 41%;
+}
+
+.h2
+{
+ position: absolute;
+ top: 25%;
+ right: 36%;
+}
+.p1
+{
+	position: absolute;
+	top: 32%;
+	right: 76%;
+}
+.p2
+{
+	position: absolute;
+	top: 41%;
+	right: 58%;
+}
+.p3
+{
+	position: absolute;
+	top: 41%;
+	right: 22%;
+}
+.p4
+{
+	position: absolute;
+	top: 31%;
+	right: 2%;
+}
+.p5
+{
+	position: absolute;
+	top: 45%;
+	right: 39.3%;
+}
+
+.an1
+{
+	position: absolute;
+	background-color: black;
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+.dibu
+{
+ position: absolute;
+	width: 200px;
+	height: 20px;
+	left: 40%;
+	top: 590px;
+}
+
+.crewi
+{
+	position: absolute;
+	background-image: url(crew.gif);
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+
+.botona1
+{
+	position: absolute;
+	background-image: url(botona1.gif);
+	width: 114px;
+	height: 165px;
+	top: 36%;
+	left: 43%;
+}
+
+.botona1i
+{
+	display: none;
+}
+
+.sig
+{
+	position: absolute;
+	background-image: url(siguiente.png);
+	width: 71px;
+	height: 78px;
+	bottom: 3%;
+	right: 0%;
+}
+
+.fin
+{
+	position: absolute;
+	background-image: url(fin.png);
+	width: 72px;
+	height: 79px;
+	bottom: 3%;
+	right: 0%;
+}
+
+.an2
+{
+	position: absolute;
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+
+.reportv
+{
+	background-image: url(report.png);
+	position: absolute;
+	width: 112px;
+	height: 109px;
+	top: 40%;
+	left: 42%;
+}
+
+.reporti
+{
+	display: none;
+}
+
+.em
+{
+	position: absolute;
+	background-image: url(emergency.gif);
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+
+.reu1
+{
+	position: absolute;
+	background-image: url(quietos.gif);
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+
+.esc
+{
+	position: absolute;
+	background-image: url(escuchar.png);
+	width: 70px;
+	height: 70px;
+	bottom: 0%;
+	left: 45%;
+}
+
+.exp
+{
+	position: absolute;
+	background-image: url(exp.gif);
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+
+.vot
+{
+	position: absolute;
+	background-image: url(vot.gif);
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+
+.an3
+{
+	position: absolute;
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+
+.an4
+{
+	position: absolute;
+	background-color: black;
+	width: 800px;
+	height: 451px;
+	left: 20%;
+}
+
+.fing
+{
+	position: absolute;
+	background-image: url(fing.png);
+	width: 207px;
+	height: 240px;
+	left: 36%;
+	top: 20%;
+}
+
+.b4
+{
+	position: absolute;
+	background-image: url(ini.png);
+	width: 100px;
+	height: 100px;
+	left: 72%;
+	top: 76%;
+}
+
+
+.invisible
+{
+	display: none;
+}
